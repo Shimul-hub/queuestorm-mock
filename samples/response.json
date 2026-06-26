@@ -1,0 +1,9 @@
+{
+  "ticket_id": "T-001",
+  "case_type": "wrong_transfer",
+  "severity": "high",
+  "department": "dispute_resolution",
+  "agent_summary": "Customer reports sending 5000 BDT to the wrong recipient and requests recovery assistance.",
+  "human_review_required": false,
+  "confidence": 0.85
+}
